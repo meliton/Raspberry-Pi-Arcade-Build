@@ -21,5 +21,5 @@ This was achieved using the Raspberry Pi. The Raspberry Pi is a credit card size
 
 
 ## Hardware
-$50 [Arcade1UP Galaga Countercade Video Game Machine](https://www.walmart.com/ip/Arcade1Up-Galaga-Countercade-Video-Game-Machine/311492502)<br>
+$50 [Arcade1UP Galaga Countercade Video Game Machine](https://www.walmart.com/ip/Arcade1Up-Galaga-Countercade-Video-Game-Machine/311492502){:target="_blank" rel="noopener"}<br>
 
