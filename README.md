@@ -7,7 +7,8 @@ Build an arcade using a Raspberry Pi and and a bit of hardware and software hack
 
 
 ## Low Power
-This was achieved using the Raspberry Pi. The Raspberry Pi is a credit card sized, single board computer. Different versions exist.
+This was achieved using the Raspberry Pi. The Raspberry Pi is a credit card sized, single board computer. Different versions exist.<br>
+**G**iga **FL**oating-point **OP**erations per **S**econd (GFLOPS) measures CPU performance. The higher, the better! 
 
 
 |Version|RAM |CPU Speed|Power|Wireless|Bluetooth|GFLOPS| 
@@ -17,4 +18,8 @@ This was achieved using the Raspberry Pi. The Raspberry Pi is a credit card size
 |Pi 3 B |1 GB|4-cores @ 1.2 GHz|300 mA (1.5 W)|Yes|Yes|3.62|
 |Pi 3 B+|1 GB|4-cores @ 1.4 GHz|459 mA (2.295 W)|Yes|Yes|5.3|
 |Pi 4   |1 - 4 GB|4-cores @ 1.5 GHz|600 mA (3 W)|Yes|Yes|9.92|
+
+
+## Hardware
+$50 [Arcade1UP Galaga Countercade Video Game Machine](https://www.walmart.com/ip/Arcade1Up-Galaga-Countercade-Video-Game-Machine/311492502)<br>
 
