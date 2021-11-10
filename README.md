@@ -25,6 +25,11 @@ $50 Arcade1Up [Galaga CounterCade](https://www.walmart.com/ip/Arcade1Up-Galaga-C
 $5 [2 in 1 Micro USB OTG Cable](https://www.amazon.com/gp/product/B07ZF6KSTR) with Micro USB Power cable <br>
 $25 [1 Player Arcade Buttons and Joystick](https://www.amazon.com/gp/product/B01M2X88QP) <br>
 $35 Raspberry Pi 2 B <br>
+$10 [Micro SD-Card](https://www.ebay.com/itm/154203782465) <br>
 $10 Raspberry Pi [2.5 A](https://www.amazon.com/CanaKit-Raspberry-Supply-Adapter-Listed/dp/B00MARDJZ4) Power Supply <br>
 $35 Arcade1Up CounterCade [Control Panels](https://www.tulsaarcades.com/store/p244/CounterCadeControlPanelGen2.html) Gen 2 <br>
 $40 Arcade1Up v1/v2 Countercade 8" [LCD Video Driver Converter w/ AUDIO](https://www.ebay.com/itm/154203782465) <br>
+
+$210 Total.
+
+## Software
